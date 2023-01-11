@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "\\\\wsl.localhost\\Ubuntu-20.04\\home\\void\\Desktop\\side-projects\\c-sharp-tutorial-2022\\CSharpTutorial\\CSharpTutorial.csproj",
+      "projectUniqueName": "\\\\wsl.localhost\\Ubuntu-20.04\\home\\void\\Desktop\\side-projects\\c-sharp-tutorial-2023\\CSharpTutorial\\CSharpTutorial.csproj",
       "projectName": "CSharpTutorial",
-      "projectPath": "\\\\wsl.localhost\\Ubuntu-20.04\\home\\void\\Desktop\\side-projects\\c-sharp-tutorial-2022\\CSharpTutorial\\CSharpTutorial.csproj",
+      "projectPath": "\\\\wsl.localhost\\Ubuntu-20.04\\home\\void\\Desktop\\side-projects\\c-sharp-tutorial-2023\\CSharpTutorial\\CSharpTutorial.csproj",
       "packagesPath": "C:\\Users\\koony\\.nuget\\packages\\",
-      "outputPath": "\\\\wsl.localhost\\Ubuntu-20.04\\home\\void\\Desktop\\side-projects\\c-sharp-tutorial-2022\\CSharpTutorial\\obj\\",
+      "outputPath": "\\\\wsl.localhost\\Ubuntu-20.04\\home\\void\\Desktop\\side-projects\\c-sharp-tutorial-2023\\CSharpTutorial\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\koony\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -61,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
       }
     }
   }
